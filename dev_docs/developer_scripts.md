@@ -21,7 +21,7 @@ $PROJECT_ROOT`.
 Deletes generated files.
 
 **Usage:** from the `$PROJECT_ROOT` directory run:
-* `make clean` cleans everything including node modules (means build with take
+* `make clean` cleans everything including node modules (means build will take
   a while
 * `make clean-lite` cleans built directories
 * `make clean-server` cleans source tree
